@@ -13,5 +13,6 @@ public class PartTimeStudent extends Student{
     
     public void dispalay(){
         System.out.println("Master Branch");
+        System.out.println("PartTimeStudent Branch");
     }
 }
