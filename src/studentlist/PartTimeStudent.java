@@ -11,4 +11,7 @@ package studentlist;
 public class PartTimeStudent extends Student{
     public int numOfCourse;
     
+    public void dispalay(){
+        System.out.println("PartTimeStudent Branch");
+    }
 }
